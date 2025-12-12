@@ -97,7 +97,6 @@ Alice Smith 1               5551234567    alice@example.com
 .
 ├── app.py                # Application entry point
 ├── requirements.txt      # Python dependencies
-└── backend/
 ├── models.py         # SQLAlchemy models
 ├── routes.py         # API route definitions
 └── utils.py          # Excel import/export utilities
